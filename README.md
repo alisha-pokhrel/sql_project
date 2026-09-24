@@ -7,7 +7,7 @@ This project analyzes **Data Analyst job postings** to understand which skills a
 The goal of this project is to explore the relationship between **salary, skill demand, and job opportunities** using real-world job posting data.
 
 #### SQL QUERIES?
-Check them out here: [project_sql_folder]
+Check them out here: [View Project 1](./project_1)
 
 ## Background
 
