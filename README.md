@@ -43,9 +43,34 @@ To answer these questions, I analyzed data from three tables:
 
 ### 1. Top-Paying Skills
 
-I analyzed the average salary associated with different skills to identify the **highest-paying skills** in Data Analyst job postings.
+**Analysis:**
+Identified the highest-paying Data Analyst positions from the dataset.
 
-The analysis showed that some specialized technical skills were associated with significantly higher average salaries.
+**Key Insights:**
+
+* **Mantys** has the highest salary at **$650K**.
+* **Meta** ranks next with **$336.5K**.
+* Most top-paying roles are in the **United States** and are **Full-time / Anywhere** positions.
+
+**Result:**
+
+| Company        | Country       |  Salary |
+| -------------- | ------------- | ------: |
+| Mantys         | India         |   $650K |
+| Meta           | United States | $336.5K |
+| AT&T           | United States | $255.8K |
+| Pinterest      | United States | $232.4K |
+| UCLA Health    | United States |   $217K |
+| SmartAsset     | United States |   $205K |
+| Inclusively    | United States | $189.3K |
+| Motional       | United States |   $189K |
+| SmartAsset     | United States |   $186K |
+| Get It Recruit | United States |   $184K |
+
+![Top Paying Data Analyst Jobs](images/query1_top_paying_jobs.png)
+#### Overall Insight
+
+The query shows that the highest-paying Data Analyst positions in this dataset are predominantly full-time and categorized as anywhere/remote, with the majority of top-paying positions coming from the United States. The results also highlight significant salary variation among Data Analyst roles.
 
 ### 2. Top 5 Most Demanded Skills
 
